@@ -9,3 +9,7 @@
 .dropdown-item-special-red {
     color: red
 }
+
+.dropdown-item {
+    white-space: inherit;
+}
