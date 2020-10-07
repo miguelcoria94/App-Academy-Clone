@@ -21,3 +21,12 @@
 .special-red-button {
     background-color: red;
 }
+
+#banner {
+    margin-bottom: 0;
+}
+
+
+#head-padding{
+    padding-top: 16rem;
+}
