@@ -17,3 +17,7 @@
 .dropdown-menu{
     width: 380px;
 }
+
+.special-red-button {
+    background-color: red;
+}
