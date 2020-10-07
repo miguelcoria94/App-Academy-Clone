@@ -11,5 +11,9 @@
 }
 
 .dropdown-item {
-    white-space: inherit;
+    white-space: normal;
+}
+
+.dropdown-menu{
+    width: 400px;
 }
