@@ -29,6 +29,6 @@
 
 
 .sc {
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-left: auto;
+    padding-right: auto;
 }
