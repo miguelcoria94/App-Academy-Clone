@@ -5,3 +5,7 @@
     padding-top: .75em;
     padding-bottom: .75em; */
 }
+
+.dropdown-item-special-red {
+    color: red
+}
