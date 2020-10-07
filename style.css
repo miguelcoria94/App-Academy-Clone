@@ -7,7 +7,7 @@
 }
 
 .special-red {
-    color: red
+    color: red !important
 }
 
 .dropdown-item {
